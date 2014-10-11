@@ -1,0 +1,11 @@
+{
+  "require": {
+    "denislaliberte/composerinagist": "dev-master"
+  },
+  "repositories": [
+  {
+    "type": "vcs",
+    "url": "https://gist.github.com/82e54bcce3d56767e1d3.git"
+   }
+  ]
+}
